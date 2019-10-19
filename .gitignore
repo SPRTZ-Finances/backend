@@ -1,0 +1,5 @@
+### Top Level ###
+.idea
+zpr-finances.iml
+.gradle
+build/
